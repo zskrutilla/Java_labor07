@@ -5,7 +5,7 @@
 package uniduna.hu.labor07.FirmWare;
 
 import uniduna.hu.labor07.Beallitas;
-
+//Git komment miatt vagy mi..
 /**
  *
  * @author KRUTILLAZS
